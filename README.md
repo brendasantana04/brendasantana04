@@ -1,4 +1,4 @@
-<img align="left" sr="https://orhun.dev/img/crow.png">
+<img align="left" height="170px" src="https://i.pinimg.com/564x/21/04/8a/21048a2ce0969eb94509703043858a9f.jpg">
 
 Getting deep into technology, currently into GNU/Linux and programming.
 
