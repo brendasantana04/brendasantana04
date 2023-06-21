@@ -8,7 +8,7 @@
   
   <br>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendasantana04&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendasantana04&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
