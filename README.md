@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  Getting deep into technology, currently into GNU/Linux and programming.
+  Currently into GNU/Linux and programming.
   
   <br>
   
