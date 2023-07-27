@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  Currently into GNU/Linux and programming.
+  computer enthusiast
   
   <br>
   
