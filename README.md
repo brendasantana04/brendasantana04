@@ -3,12 +3,6 @@
 </div>
 
 <div align="center">
-  
-  Computer enthusiast
-  
-  <br>
-
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendasantana04&hide_progress=false&layout=donut&theme=apprentice)
-  
 </div>
 
