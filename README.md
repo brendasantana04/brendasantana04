@@ -8,8 +8,7 @@
   
   <br>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendasantana04&hide_progress=false)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendasantana04&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendasantana04&hide_progress=false&layout=compact&theme=apprentice)
   
 </div>
 
