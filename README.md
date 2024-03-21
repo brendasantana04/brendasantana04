@@ -51,5 +51,14 @@
     height="30"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
     alt="css"/>
+<img
+  height="30"
+  src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"
+  alt="sql"/>
+<img
+  height="30"
+  src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"
+  alt="postgre"/>
 </div>
+
 
