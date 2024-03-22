@@ -25,10 +25,6 @@
     alt="python"/> 
 <img
     height="30"
-    src="https://seeklogo.com/images/M/microsoft-net-logo-4D9DA1DB77-seeklogo.com.png"
-    alt="dotnet"/>
-<img
-    height="30"
     src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"
     alt="csharp"/>
 <img
@@ -44,14 +40,6 @@
     src="https://iconape.com/wp-content/png_logo_vector/git-icon.png"
     alt="git"/>
 <img
-    height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
-    alt="html"/>
-<img
-    height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
-    alt="css"/>
-<img
   height="30"
   src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"
   alt="sql"/>
@@ -59,6 +47,9 @@
   height="30"
   src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"
   alt="postgre"/>
+<img
+  height="30"
+  src="https://assets-global.website-files.com/6064b31ff49a2d31e0493af1/63a57609d46c17284c36a721_mongodb.svg"
+  alt="mongodb"/>
 </div>
-
 
