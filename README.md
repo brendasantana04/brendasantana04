@@ -47,13 +47,5 @@ alt="javascript"/>
   height="30"
   src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"
   alt="sql"/>
-<img
-  height="30"
-  src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"
-  alt="postgre"/>
-<img
-  height="30"
-  src="https://assets-global.website-files.com/6064b31ff49a2d31e0493af1/63a57609d46c17284c36a721_mongodb.svg"
-  alt="mongodb"/>
 </div>
 
