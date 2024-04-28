@@ -24,6 +24,10 @@
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png"
     alt="python"/> 
 <img
+height="30"
+src="https://static-00.iconduck.com/assets.00/javascript-js-icon-2048x2048-nyxvtvk0.png"
+alt="javascript"/>
+<img
     height="30"
     src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"
     alt="csharp"/>
