@@ -1,12 +1,14 @@
-<div style="float: right;">
-  <img align="right" height="200px" src="https://i.pinimg.com/564x/21/04/8a/21048a2ce0969eb94509703043858a9f.jpg">    
+<div style="display: flex; flex-direction: row-reverse;">
+  <div style="flex: 1;">
+    <p>
+      <a href="https://wakatime.com/@528716ac-4762-490a-a3d4-738df4783a43"><img src="https://wakatime.com/share/@haineeee/460ee584-3850-4e90-b7a8-5cbf848eb217.svg" alt="Total time coded since May 14 2024" height="250"></a>
+    </p>
+  </div>
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendasantana04&hide_progress=false&layout=compact&theme=transparent" alt="Top Languages">
+  </div>
 </div>
 
-<div align="center">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendasantana04&hide_progress=false&layout=compact&theme=transparent)
-  
-</div>
 
 
 ## 
