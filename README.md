@@ -24,7 +24,7 @@
     alt="python"/> 
 <img
     height="30"
-    src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"
+    src="https://cdn.iconscout.com/icon/free/png-256/free-csharp-1175240.png"
     alt="csharp"/>
 <img
     height="30"
