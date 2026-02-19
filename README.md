@@ -38,6 +38,10 @@
     src="https://iconape.com/wp-content/png_logo_vector/git-icon.png"
     alt="git"/>
 <img
+    height="30"
+    src="https://tse4.mm.bing.net/th/id/OIP.zisFaJ7Lnfv622gLFMT5YgHaHa?cb=defcache2&defcache=1&rs=1&pid=ImgDetMain&o=7&rm=3"
+    alt="dynamics"/>
+<img
   height="30"
   src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"
   alt="sql"/>
