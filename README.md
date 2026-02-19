@@ -4,15 +4,14 @@
 
 <div align="center">
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendasantana04&hide_progress=false&layout=compact&theme=transparent)
-  
+  ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=brendasantana04&hide_progress=false&layout=compact&theme=transparent)
 </div>
 
 ## 
 <div align="center">
 <img
     height="30"
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1727px-Tux.svg.png"
+    src="https://cdn.pixabay.com/photo/2013/07/13/11/43/tux-158547_960_720.png"
     alt="tux"/>
 <img
     height="30"
